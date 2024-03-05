@@ -1,0 +1,36 @@
+body{
+    background-color:gray;
+}
+img{
+    border: dashed;
+    box-shadow: 0px 0px 18px red;
+}
+#c1{
+    color:white;
+    text-decoration: underline;
+    text-shadow:0px 0px 25px red;
+    font-family: 'Marhey',sans-serif;
+}
+.a1{
+    color:white;
+    text-transform: uppercase;
+    word-spacing: 15px;
+
+}
+.a2{
+    color: white;
+    text-decoration: underline;
+    text-shadow:0px 0px 10px red;
+}
+#a3{
+    color: red;
+    text-decoration: line-through ;
+    text-decoration-color: black;
+
+}
+#c2{
+    color:red;
+    text-shadow: 0px 0px 13px white;
+   
+
+}
